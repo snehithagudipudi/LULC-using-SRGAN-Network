@@ -1,0 +1,21 @@
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-image
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+Pillow
+rasterio
+gdal
+tqdm
+albumentations
+jupyter
+notebook
+QGIS
+Earth Observation data
+Copernicus
+Land Use and Land Cover
